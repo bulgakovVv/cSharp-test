@@ -1,0 +1,13 @@
+D:\Git\cSharp-test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Git\cSharp-test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Git\cSharp-test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Git\cSharp-test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Git\cSharp-test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Git\cSharp-test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Git\cSharp-test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Git\cSharp-test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Git\cSharp-test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Git\cSharp-test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Git\cSharp-test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Git\cSharp-test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Git\cSharp-test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
